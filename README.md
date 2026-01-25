@@ -1,5 +1,9 @@
 <h1 align="center">Hi There, I'm Bayu Adjie! 👋</h1>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There,%20I'm%20Bayu%20Adjie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;PHP+%26+Laravel+Learner" alt="Typing SVG" />
 </p>
