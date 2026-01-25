@@ -35,8 +35,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical" alt="Bayu Adjie's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bayu-adjie1&show_icons=true&theme=radical" alt="Bayu Adjie's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-adjie1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 <h3 align="center">📫 Connect with Me</h3>
