@@ -39,10 +39,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-adjie1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
+<h3 align="center">🐍 My Contributions</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bayu-adjie1/bayu-adjie1/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/bayuuajy" target="_blank">
+  <a href="https://instagram.com/m.bayuadjie" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
