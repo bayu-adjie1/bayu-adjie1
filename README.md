@@ -36,8 +36,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-[![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayu-adjie1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-adjie1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayu-adjie1&show_icons=true&theme=radical" alt="Bayu Adjie's Stats" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayu-adjie1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 <h3 align="center">🐍 My Contributions</h3>
 <p align="center">
